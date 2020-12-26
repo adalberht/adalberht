@@ -1,4 +1,4 @@
-### 👋 I have moved to [albertusdev](https://github.com/albertusdev)
+### 👋 I have moved to [@albertusdev](https://github.com/albertusdev)
 Hi there! I no longer use this username for consistency issues and have moved my primary account to [@albertusdev](https://github.com/albertusdev)
  
 This account is temporary and I will delete this account by middle of 2021.
